@@ -1,10 +1,12 @@
-# PyTorch-YOLOv3
-A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
+# DeepPatch
+
+DeepPatch repairs a model not detecting objects correctly with object detection.
+DeepPatch is based on [PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3).
 
 ## Installation
 ##### Clone and install requirements
-    $ git clone https://github.com/eriklindernoren/PyTorch-YOLOv3
-    $ cd PyTorch-YOLOv3/
+    $ git clone https://github.com/mrtakagi/DeepPatch
+    $ cd DeepPatch/
     $ sudo pip3 install -r requirements.txt
 
 ##### Download pretrained weights
